@@ -1,0 +1,15 @@
+body{
+    padding: 70px;
+    background-color: rgb(39, 33, 49);
+    color: rgb(130, 94, 145);
+    font-family: 'Pacifico', cursive;
+}
+.img{
+    border-radius: 200px;
+}
+.table, th, td{
+    color: rgb(159, 125, 224);
+    border: 0px;
+    padding: 8px;
+    background-color: rgb(71, 51, 80);
+}
